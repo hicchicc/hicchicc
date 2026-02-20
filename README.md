@@ -1,5 +1,5 @@
 ## ✅ NEW PIXEL FONT RELEASED!!
-### x8y12pxDenkiChip ![Latest Version](https://img.shields.io/github/v/release/hicchicc/x8y12pxDenkiChip?style=flat-square) ![Total Downloads](https://img.shields.io/github/downloads/hicchicc/x8y12pxDenkiChip/total?style=flat-square&color=blue)
+### x8y12pxDenkiChip ![Latest Version](https://img.shields.io/github/v/release/hicchicc/x8y12pxDenkiChip) ![Total Downloads](https://img.shields.io/github/downloads/hicchicc/x8y12pxDenkiChip/total)
 https://github.com/hicchicc/x8y12pxDenkiChip
 
 <!--
