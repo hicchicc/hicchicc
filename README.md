@@ -1,4 +1,6 @@
-## Hi there 👋
+## NEW RELEASE PIXEL FONT!
+### x8y12pxDenkiChip ![Latest Version](https://img.shields.io/github/v/release/hicchicc/x8y12pxDenkiChip?style=flat-square) ![Total Downloads](https://img.shields.io/github/downloads/hicchicc/x8y12pxDenkiChip/total?style=flat-square&color=blue)
+https://github.com/hicchicc/x8y12pxDenkiChip
 
 <!--
 **hicchicc/hicchicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
