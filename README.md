@@ -1,6 +1,10 @@
-## ✅ NEW PIXEL FONT RELEASED!!
-### x8y12pxDenkiChip ![Latest Version](https://img.shields.io/github/v/release/hicchicc/x8y12pxDenkiChip) ![Total Downloads](https://img.shields.io/github/downloads/hicchicc/x8y12pxDenkiChip/total)
-https://github.com/hicchicc/x8y12pxDenkiChip
+## 📼 https://github.com/hicchicc/x5y8pxNegaTape
+![NegaTape](https://github.com/hicchicc/x5y8pxNegaTape/blob/main/documentation/x5y8pxNegaTape.png)
+
+## 📎 https://github.com/hicchicc/x5y8pxNegaClip
+![NegaClip](https://github.com/hicchicc/x5y8pxNegaClip/blob/main/documentation/x5y8pxNegaClip.png)
+
+#### ✅ NEW PIXEL FONTS RELEASED!!
 
 <!--
 **hicchicc/hicchicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
