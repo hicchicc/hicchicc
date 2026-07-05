@@ -10,7 +10,7 @@
 #### 📝 00FF PROJECTS
 | # | NAME | COMMON NAME | RELEASE | LATEST VER | LICENSE |
 | --- | --- | --- | --- | --- | --- |
-| 00 | [x0y0pxFreeFont](https://hicchicc.github.io/00ff/) | ゼロピクセルフリーフォント | 2018-04-29 | 2023-07-14 | |
+| 00 | [x0y0pxFreeFont](https://hicchicc.github.io/00ff/) | ゼロピクセルフリーフォント | 2018-04-29 | | |
 | 01 | x12y20pxScanLine | スキャンライン | 2018-04-30 | 2018-12-27 | Original |
 | 02 | x8y12pxTheStrongGamer | ザ・ストロングゲーマー | 2018-05-11 | | Original |
 | 03 | x14y24pxHeadUpDaisy | ヘッドアップデイジー | 2018-06-16 | 2025-09-11 | Original |
