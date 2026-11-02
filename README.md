@@ -1,5 +1,9 @@
-#### ✅ NEW PIXEL FONTS RELEASED!!
+#### ✅ DenkiChip v1.100 UPDATE!!
 
+## ⚡ https://github.com/hicchicc/x8y12pxDenkiChip
+![DenkiChip](https://github.com/hicchicc/x8y12pxDenkiChip/blob/main/documentation/x8y12pxDenkiChip-v1.100.png)
+
+#### ✅ NEW PIXEL FONTS RELEASED!!
 
 ## 📼 https://github.com/hicchicc/x5y8pxNegaTape
 ![NegaTape](https://github.com/hicchicc/x5y8pxNegaTape/blob/main/documentation/x5y8pxNegaTape.png)
@@ -22,7 +26,7 @@
 | 09 | x12y16pxSolidLinker | ソリッドリンカー | 2023-10-29 | | Original |
 | 10 | x12y12pxMaruMinyaM | マルミーニャM | 2024-01-19 | | Original |
 | 11 | x10y12pxDonguriDuel | どんぐりデュエル | 2025-01-10 | | Original |
-| 12 | [x8y12pxDenkiChip](https://github.com/hicchicc/x8y12pxDenkiChip) | でんきチップ | 2026-02-19 | 1.000 | SIL OFL |
+| 12 | [x8y12pxDenkiChip](https://github.com/hicchicc/x8y12pxDenkiChip) | でんきチップ | 2026-02-19 | 1.100 | SIL OFL |
 | 13 | [x5y8pxNegaTape](https://github.com/hicchicc/x5y8pxNegaTape) | ネガテープ | 2026-06-13 | 1.000 | SIL OFL |
 | 14 | [x5y8pxNegaClip](https://github.com/hicchicc/x5y8pxNegaClip) | ネガクリップ | 2026-06-13 | 1.000 | SIL OFL |
 | | [NegaPico](https://github.com/hicchicc/NegaPico) | ネガピコ | 2026-06-18 | | SIL OFL |
