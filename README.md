@@ -11,7 +11,7 @@
 ## 📎 https://github.com/hicchicc/x5y8pxNegaClip
 ![NegaClip](https://github.com/hicchicc/x5y8pxNegaClip/blob/main/documentation/x5y8pxNegaClip.png)
 
-#### 📝 00FF PROJECTS
+#### 🖨️ 00FF FONT PROJECTS
 | # | NAME | COMMON NAME | RELEASE | LATEST VER | LICENSE |
 | --- | --- | --- | --- | --- | --- |
 | 00 | [x0y0pxFreeFont](https://hicchicc.github.io/00ff/) | ゼロピクセルフリーフォント | 2018-04-29 | | |
@@ -29,6 +29,10 @@
 | 12 | [x8y12pxDenkiChip](https://github.com/hicchicc/x8y12pxDenkiChip) | でんきチップ | 2026-02-19 | 1.100 | SIL OFL |
 | 13 | [x5y8pxNegaTape](https://github.com/hicchicc/x5y8pxNegaTape) | ネガテープ | 2026-06-13 | 1.000 | SIL OFL |
 | 14 | [x5y8pxNegaClip](https://github.com/hicchicc/x5y8pxNegaClip) | ネガクリップ | 2026-06-13 | 1.000 | SIL OFL |
-| | [NegaPico](https://github.com/hicchicc/NegaPico) | ネガピコ | 2026-06-18 | | SIL OFL |
-| | x8y16pxLittleEboshi | リトルエボシ | wip | |
-| | x16y16pxNanameDrive | ナナメドライブ | wip | |
+|  | x8y16pxLittleEboshi | リトルエボシ | WIP | |
+|  | x16y16pxNanameDrive | ナナメドライブ | WIP | |
+
+#### 🕹️ 00FF EXTRA PROJECTS
+| # | NAME | COMMON NAME | RELEASE | LATEST VER | LICENSE |
+| --- | --- | --- | --- | --- | --- |
+| PICO-8 | [NegaPico](https://github.com/hicchicc/NegaPico) | ネガピコ | 2026-06-18 | | SIL OFL |
